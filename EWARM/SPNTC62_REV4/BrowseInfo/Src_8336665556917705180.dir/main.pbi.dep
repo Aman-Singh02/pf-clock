@@ -1,0 +1,46 @@
+C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\SPNTC62_REV4\BrowseInfo\Src_8336665556917705180.dir\main.pbi: \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_gpio.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_wwdg.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_usart.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_rtc.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_pwr.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_utils.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_cortex.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_exti.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_system.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_bus.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_pwr_ex.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_pwr.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_flash_ex.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_flash.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_exti.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_cortex.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_dma_ex.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_dmamux.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_dma.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_dma.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_gpio_ex.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_gpio.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_rcc_ex.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_ll_rcc.h \
+  G:\IAR\arm\inc\c\ycheck.h G:\IAR\arm\inc\c\ysizet.h \
+  G:\IAR\arm\inc\c\stddef.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\CMSIS\Device\ST\STM32G0xx\Include\system_stm32g0xx.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\CMSIS\Include\mpu_armv7.h \
+  G:\IAR\arm\inc\c\aarch32\iccarm_builtin.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\CMSIS\Include\cmsis_iccarm.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\CMSIS\Include\cmsis_compiler.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\CMSIS\Include\cmsis_version.h \
+  G:\IAR\arm\inc\c\DLib_Product.h G:\IAR\arm\inc\c\DLib_Config_Full.h \
+  G:\IAR\arm\inc\c\DLib_Defaults.h G:\IAR\arm\inc\c\yvals.h \
+  G:\IAR\arm\inc\c\stdint.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\CMSIS\Include\core_cm0plus.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\CMSIS\Device\ST\STM32G0xx\Include\stm32g030xx.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\CMSIS\Device\ST\STM32G0xx\Include\stm32g0xx.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_def.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Drivers\STM32G0xx_HAL_Driver\Inc\stm32g0xx_hal_rcc.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Core\Inc\stm32g0xx_hal_conf.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\EWARM\..\Core\Inc\main.h \
+  C:\Users\HP\Desktop\Task\PROJECT_Assign\SPNTC62_REV4\Project\Core\Src\main.c
